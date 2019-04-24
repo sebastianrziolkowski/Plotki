@@ -129,7 +129,7 @@ void Qucik( stop tab[], int left, int right )
 
         if( i <= j )
         {
-            swap( tab[ i ], tab[ j ] );                         //// ???????? to dzial!??!?!
+            swap( tab[ i ], tab[ j ] );            
             i++;
             j--;
         }
